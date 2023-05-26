@@ -35,8 +35,9 @@ CIDR Block (Class Inter Domain Route) :
 https://jodies.de/ipcalc?host=10.0.0.0&mask1=16&mask2 
 
 Quanto menos bits definido na máscara, menor será o número de sub-redes e consequentemente, maior o número de IPs(Maquinas) disponíveis para alocar na rede. 
- 
- ![Getimage1.png](./Getimage1.png)
+
+ ![unnamed](https://github.com/MAGAMEN/documentosAWS/assets/39193235/0c4da5e5-3d12-4fdf-be3b-a611dabafc38)
+
 ## EC2 
 
 1. Crie uma instancia publica 
@@ -70,7 +71,7 @@ Quanto menos bits definido na máscara, menor será o número de sub-redes e con
 * ls ~/.ssh/ (para listar) 
 * chmod 400 ~/.ssh/aws.pem (para restringir permissões) 
 
- ![Getimage2.png](./Getimage2.png)
+ ![unnamed (1)](https://github.com/MAGAMEN/documentosAWS/assets/39193235/c11a0693-8fe9-4de3-b3bd-75f145f0bf5a)
 
 ## Internet Gateway 
 
